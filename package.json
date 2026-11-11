@@ -1,0 +1,1 @@
+{"description":"The Edge Search — static blog for Cloudflare Pages (theedgesearch.my.id). One article per day, 12 Nov 2026 – 11 Nov 2027.","engines":{"node":">=18"},"license":"UNLICENSED","name":"theedgesearch","private":true,"scripts":{"build":"node build.js","serve":"node build.js && python3 -m http.server 8000 --directory dist"},"type":"commonjs","version":"1.0.0"}
